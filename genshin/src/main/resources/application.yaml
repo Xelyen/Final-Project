@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/genshin
+    username: genshin
+    password: genshin
+    driver-class-name: com.mysql.cj.jdbc.Driver
